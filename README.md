@@ -37,14 +37,7 @@ Bankist App is a simple yet powerful banking application that allows users to ma
 - Intl.DateTimeFormat
 
 ## Getting Started
-
-To get a local copy of the project up and running, follow these steps:
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/Ahmed-K-Fouda/bankist-app.git
-   ```
-   2- useName and password for test ==>
+   **userName and password for test** ==>
    -- af , 1111
    -- lm, 2222
    -- gw, 3333
